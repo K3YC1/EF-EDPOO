@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>basura.png</file>
+    <file>editar.png</file>
+    <file>cruz.png</file>
+    <file>menos.png</file>
+    <file>cartera.png</file>
+  </qresource>
+</RCC>
